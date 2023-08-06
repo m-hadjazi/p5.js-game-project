@@ -1,4 +1,6 @@
-### Game Project 6 – All together ###
+This is a game project that I created in my first year of university using p5.js library.  
 
-This is the full game, unfortunately, It is not fully stable but all the elements of the game are 
+### 6 – All together ###
+
+This is the whole game, unfortunately, It is not entirely stable but all the elements of the game are 
 their.
